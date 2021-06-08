@@ -1,0 +1,3 @@
+# Transition to sustainable economy
+
+A group of people decides to build a sustainable economy. They start by gathering funds for a farm to produce food. The group can then provide it's members food in excange of money or labor. At start much money is needed to purchase land and equipment but eventually more and more of the food can be purchased by direct labor.
