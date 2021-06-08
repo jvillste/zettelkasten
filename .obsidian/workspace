@@ -1,32 +1,104 @@
 {
   "main": {
-    "id": "387a5fedc3fba890",
+    "id": "ac12efd8410243f1",
     "type": "split",
     "children": [
       {
-        "id": "637d526563210b59",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "source"
+        "id": "789678394d0e60b9",
+        "type": "split",
+        "children": [
+          {
+            "id": "cb16d6024349327b",
+            "type": "leaf",
+            "dimension": 56.15314494074749,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-08.md",
+                "mode": "source"
+              }
+            },
+            "group": "fe57dcc3e63b36f7"
+          },
+          {
+            "id": "961b3fda63a6e157",
+            "type": "leaf",
+            "dimension": 23.701002734731087,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-06-08.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9762c8c04a9324a0",
+            "type": "leaf",
+            "dimension": 20.14585232452142,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2021-06-08.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag: #fediverse",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.715771901709402,
+                  "lineSizeMultiplier": 4.69898504273504,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 3.80074786324786,
+                  "linkStrength": 0.89463141025641,
+                  "linkDistance": 250,
+                  "scale": 2.7146220396519163,
+                  "close": false
+                }
+              }
+            },
+            "group": "fe57dcc3e63b36f7"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8c99d32a4fb24ace",
+    "id": "100632f7312f0178",
     "type": "split",
     "children": [
       {
-        "id": "96f5fa2df8271a7c",
+        "id": "dd1649f03debb776",
         "type": "tabs",
         "children": [
           {
-            "id": "489161bb60d50998",
+            "id": "d4916a8b4b64ff57",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +106,12 @@
             }
           },
           {
-            "id": "e038a0f10418d427",
+            "id": "251fc2e973b4fc93",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "zettelkasten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,27 +127,43 @@
     "width": 300
   },
   "right": {
-    "id": "3c9ddb584d880a5d",
+    "id": "7b9a8a10bb58155a",
     "type": "split",
     "children": [
       {
-        "id": "d4a33446cdf3fb0f",
+        "id": "bd4e3c810e173f28",
         "type": "tabs",
         "children": [
           {
-            "id": "f7c9f0e91442656e",
+            "id": "e53cbc84418dfc1f",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outgoing-link",
               "state": {
-                "file": "index.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
+                "file": "2021-06-08.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e260b711fa560216",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5dee541fddc6f94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2021-06-08.md"
               }
             }
           }
@@ -86,8 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "637d526563210b59",
+  "active": "cb16d6024349327b",
   "lastOpenFiles": [
-    "Untitled.md"
+    "2021-06-08.md",
+    "Gödel numbering.md",
+    "Andy Matuschak.md",
+    "Evergreen notes.md",
+    "angular.md",
+    "homoiconic_runtimeless_programming_language.md",
+    "zettelkasten.md",
+    "2021-06-07.md",
+    "Mastodon.md",
+    "Federation.md"
   ]
 }
