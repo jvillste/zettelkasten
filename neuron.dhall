@@ -1,6 +1,6 @@
 -- Documentation for neuron.dhall: https://neuron.zettel.page/configuration
-{ siteTitle = "Neuron Template"
-, author = Some "John Doe"
+{ siteTitle = "Jukka's Zettelkasten"
+, author = Some "Jukka Villstedt"
 , siteBaseUrl = Some "https://jvillste.github.io/zettelkasten/"
 -- List of color names: https://semantic-ui.com/usage/theming.html#sitewide-defaults
 , theme = "teal"
