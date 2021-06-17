@@ -4,87 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "789678394d0e60b9",
-        "type": "split",
-        "children": [
-          {
-            "id": "cb16d6024349327b",
-            "type": "leaf",
-            "dimension": 56.15314494074749,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gödel numbering.md",
-                "mode": "source"
-              }
-            },
-            "group": "fe57dcc3e63b36f7"
-          },
-          {
-            "id": "961b3fda63a6e157",
-            "type": "leaf",
-            "dimension": 23.701002734731087,
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Gödel numbering.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "byModifiedTime",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9762c8c04a9324a0",
-            "type": "leaf",
-            "dimension": 20.14585232452142,
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Gödel numbering.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag: #fediverse",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 0.715771901709402,
-                  "lineSizeMultiplier": 4.69898504273504,
-                  "collapse-forces": false,
-                  "centerStrength": 1,
-                  "repelStrength": 3.80074786324786,
-                  "linkStrength": 0.89463141025641,
-                  "linkDistance": 250,
-                  "scale": 2.7146220396519163,
-                  "close": false
-                }
-              }
-            },
-            "group": "fe57dcc3e63b36f7"
+        "id": "0e7a9986657e2852",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-06-17.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -111,12 +39,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zettelkasten",
+                "query": "variable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
               }
             }
           }
@@ -140,7 +68,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gödel numbering.md",
+                "file": "2021-06-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gödel numbering.md"
+                "file": "2021-06-17.md"
               }
             }
           }
@@ -174,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb16d6024349327b",
+  "active": "0e7a9986657e2852",
   "lastOpenFiles": [
-    "Gödel_numbering.md",
-    "2021-06-08.md",
-    "Gödel numbering.md",
-    "Andy Matuschak.md",
-    "Evergreen notes.md",
-    "angular.md",
-    "homoiconic_runtimeless_programming_language.md",
-    "zettelkasten.md",
-    "2021-06-07.md",
-    "Mastodon.md"
+    "2021-06-17.md",
+    "camera gear.md",
+    "2021-06-16.md",
+    "Untitled.md",
+    "Variable length quantity.md",
+    "2021-06-13.md",
+    "2021-06-15.md",
+    "2021-06-14.md",
+    "2021-06-12.md",
+    "2021-06-11.md"
   ]
 }

@@ -339,7 +339,7 @@ A program that reads data and posts transactions to origins
   * simple
   * generic
   * no interpretation
-* no domain model constarints
+  * no domain model constarints
 * metamodel implementation
   * space efficiency
   * read and write performance
