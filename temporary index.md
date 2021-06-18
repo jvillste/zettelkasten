@@ -1,0 +1,1 @@
+An index that has transaction number and operator as the last columns.

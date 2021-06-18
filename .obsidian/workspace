@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "28f44a27b0d27e5c",
+        "id": "2f26b09f3a51c060",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "commands.md",
+            "file": "delta compressed blob storage.md",
             "mode": "source"
           }
         }
@@ -39,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "systemctl",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": true,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,9 +68,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "commands.md",
+                "file": "delta compressed blob storage.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -92,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "commands.md"
+                "file": "delta compressed blob storage.md"
               }
             }
           }
@@ -100,20 +99,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "28f44a27b0d27e5c",
+  "active": "2f26b09f3a51c060",
   "lastOpenFiles": [
-    "commands.md",
-    "2021-06-17.md",
-    "camera gear.md",
-    "2021-06-16.md",
+    "delta compressed blob storage.md",
+    "2021-06-18.md",
     "Untitled.md",
+    "temporary index.md",
+    "2021-06-16.md",
+    "2021-06-17.md",
+    "commands.md",
+    "camera gear.md",
     "Variable length quantity.md",
-    "2021-06-13.md",
-    "2021-06-15.md",
-    "2021-06-14.md",
-    "2021-06-12.md"
+    "2021-06-13.md"
   ]
 }
