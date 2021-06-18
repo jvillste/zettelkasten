@@ -1,3 +1,5 @@
+Dali needs a blob storage with delta compression and content based addressing.
+
 There should be these file types in the blob storage:
 
 - base: the actual content as is, named by hash of the contents
@@ -10,7 +12,7 @@ It allows optimizing the storage without changing the names: a compound can be r
 
 Compound lists all the required deltas so that the client can figure out which deltas it does not yet have and retrieve them parallerly or using a singe api call.
 
-# how to differentiate compounds from bases?
+# How to differentiate compounds from bases?
 
 When a client asks for content corresponding to a hash, it must know if it got a compound or a base.
 
@@ -19,3 +21,7 @@ If the fiels are served from S3 bucket or some other non customized http server 
 - compound and base urls differ and the client has to first query one of them and if it does not exist, query the other.
 
 If a customized Dali server is used it can return either compound or a base in a single api call and also mark the content type using response headers.
+
+# Splitting large files
+
+Large files could be split to deltas if that makes sense for a p2p protocol. This could be handled by the p2p protocol without being addressed on the blob storage level though.
