@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "ac12efd8410243f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e89a9053614ea47",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-06-20.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "100632f7312f0178",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd1649f03debb776",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4916a8b4b64ff57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "251fc2e973b4fc93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b9a8a10bb58155a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd4e3c810e173f28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e53cbc84418dfc1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2021-06-20.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e260b711fa560216",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5dee541fddc6f94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2021-06-20.md"
+              }
+            }
+          },
+          {
+            "id": "f3b19375370b83da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-06-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2e89a9053614ea47",
+  "lastOpenFiles": [
+    "2021-06-20.md",
+    "2021-06-21.md",
+    "2021-06-22.md",
+    "2021-06-23.md",
+    "2021-06-18.md",
+    "delta compressed blob storage.md",
+    "Untitled.md",
+    "temporary index.md",
+    "2021-06-16.md",
+    "2021-06-17.md"
+  ]
+}
