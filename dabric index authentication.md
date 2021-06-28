@@ -1,0 +1,3 @@
+Dabric indexes are immutable b-trees. The b-ree nodes refer to other nodes by hash values of the contents of the nodes. Thus each index state can be identified by the hash value of it's root node.
+
+To ensure the authenticity of the data in the index, the reader must obtain the hash value of the index root from a trusted source just like when authenticating the dabric streams. See [[dabric stream authentication]]
