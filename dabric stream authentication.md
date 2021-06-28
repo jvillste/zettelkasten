@@ -2,7 +2,7 @@ It must be possible to cryptographically authenticate the data that belongs to a
 
 Each change in the stream is identified by a hash value of the contents of the change and the hash of the previous change. To authenticate the whole stream, the reader must obtain the hash value of the lastest change from a trusted source. This will most likely be done with an API call to a trusted domain over TLS, but the hash value could be read from a hand written note if that's preferred.
 
-This same mechanism is used in the git version management tool.
+This same mechanism is used in the git version management tool. Each commit in git is refered by the hash of the commit object's contents including the hash of the previous commit.
 
 Note that the has values of the changes identify a specific state of the stream, but each stream also has a stable identifier. See [[dabric stream identity]].
 
