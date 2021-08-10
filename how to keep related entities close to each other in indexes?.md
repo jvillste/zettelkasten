@@ -1,0 +1,1 @@
+Entity ids are sequencies. Related entities could share a common prefix. The last value in the sequence would be from the local entity id sequence to ensure uniquenes.

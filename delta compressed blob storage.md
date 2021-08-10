@@ -3,7 +3,7 @@ Dali needs a blob storage with delta compression and content based addressing.
 There should be these file types in the blob storage:
 
 - base: the actual content as is, named by hash of the contents
-- delta: a change to another delta or a base. Named by hash of the change and references.
+- delta: a change to another delta or a base. Named by hash of the change and the reference.
 - compound: a sequence of references to base and one or more deltas. Addressed by hash of the contents of the resulting value when the deltas are applied.
 
 This structure makes all of the files cacheable as they have stable content based names.
