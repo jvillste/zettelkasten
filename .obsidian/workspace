@@ -10,11 +10,11 @@
           {
             "id": "01376495a53e596b",
             "type": "leaf",
-            "dimension": 86.44788817988453,
+            "dimension": 86.44788817988452,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-08-10.md",
+                "file": "2021-08-24.md",
                 "mode": "source"
               }
             },
@@ -23,11 +23,11 @@
           {
             "id": "44efc5154c7ddd3e",
             "type": "leaf",
-            "dimension": 13.55211182011547,
+            "dimension": 13.552111820115469,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2021-08-10.md",
+                "file": "2021-08-24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matusch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-08-10.md",
+                "file": "2021-08-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +134,15 @@
   },
   "active": "01376495a53e596b",
   "lastOpenFiles": [
-    "2021-08-10.md",
-    "Andy Matuschak.md",
-    "2021-08-09.md",
-    "2021-08-07.md",
-    "2021-07-27.md",
-    "2021-06-28.md",
-    "2021-06-30.md",
-    "2021-07-01.md",
-    "2021-07-03.md",
-    "2021-07-07.md"
+    "2021-08-24.md",
+    "2021-08-23.md",
+    "commands.md",
+    "2021-08-18.md",
+    "2021-08-17.md",
+    "2021-06-24.md",
+    "2021-06-21.md",
+    "2021-06-16.md",
+    "delta compressed blob storage.md",
+    "2021-08-16.md"
   ]
 }
