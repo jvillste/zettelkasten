@@ -4,61 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "90e49f4272d83a8b",
-        "type": "split",
-        "children": [
-          {
-            "id": "01376495a53e596b",
-            "type": "leaf",
-            "dimension": 86.44788817988452,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-08-24.md",
-                "mode": "source"
-              }
-            },
-            "group": "821ee4804b6817db"
-          },
-          {
-            "id": "44efc5154c7ddd3e",
-            "type": "leaf",
-            "dimension": 13.552111820115469,
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "2021-08-24.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 5,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "821ee4804b6817db"
+        "id": "c3e92c29295cd4f1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-08-24.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -132,7 +86,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "01376495a53e596b",
+  "active": "c3e92c29295cd4f1",
   "lastOpenFiles": [
     "2021-08-24.md",
     "2021-08-23.md",
