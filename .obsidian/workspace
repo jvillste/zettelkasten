@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-08-26.md",
+            "file": "dabric file structure.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-08-26.md",
+                "file": "dabric file structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c3e92c29295cd4f1",
   "lastOpenFiles": [
-    "2021-08-26.md",
     "dabric file structure.md",
+    "2021-08-26.md",
+    "2021-09-02.md",
+    "2021-09-03.md",
+    "dabric value types.md",
     "Untitled.md",
     "2021-08-25.md",
     "2021-08-24.md",
     "2021-08-23.md",
-    "commands.md",
-    "2021-08-18.md",
-    "2021-08-17.md",
-    "2021-06-24.md"
+    "commands.md"
   ]
 }
