@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "value ordering.md",
+            "file": "dabric value types.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "value ordering.md",
+                "file": "dabric value types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "c3e92c29295cd4f1",
   "lastOpenFiles": [
-    "value ordering.md",
     "dabric value types.md",
+    "value ordering.md",
     "length vs size.md",
     "length and size.md",
     "2021-09-08.md",

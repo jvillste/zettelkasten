@@ -1,7 +1,7 @@
 # value types in the Dabric prelude
 ## first order types
 - unsigned integer: little endian integer of a fixed byte count. Supported byte sizes are 1,2,4,8. Note that the byte size is not a type parameter but the regular type size value given for every type.
-- signed integer: twos complement liitle endian integer of a fixed byte count. Supported byte sizes are 1,2,4,8 
+- signed integer: twos complement liitle endian integer. Supported byte sizes are 1,2,4,8 
 - unsigned leb128: a leb128 encoded unsigned integer
 - string: utf-8 encoded byte size prefixed string
 - type tagged value: a type tag / value -pair where the type tag is a VQL refering to the value type sequence in the file header
@@ -18,7 +18,7 @@
 - epoch: a unix epoch as an unsigned integer
 
 ## value attributes
-Some values are encoded as structs or records and use attributes defined in the Dabric prelude.
+Dabric prelude defines the following attributes to be used in structs and records:
 - date time
 	- year
 	- month
