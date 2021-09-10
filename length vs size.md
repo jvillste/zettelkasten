@@ -1,0 +1,1 @@
+Length means the number of values. Size means number of bytes.
