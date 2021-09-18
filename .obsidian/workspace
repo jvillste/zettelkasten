@@ -4,15 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "c3e92c29295cd4f1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dabric value types.md",
-            "mode": "source"
+        "id": "c8bc42ff848b3eea",
+        "type": "split",
+        "children": [
+          {
+            "id": "261d0b3bda8f8b63",
+            "type": "leaf",
+            "dimension": 34.33140523987751,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dabric file headers.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "3a4d64fafb4c6275",
+            "type": "split",
+            "dimension": 65.66859476012249,
+            "children": [
+              {
+                "id": "15902fa38707b41c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "value types.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "214ffdee4c2f36a1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "value types in the Dabric prelude.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -39,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"value type\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263
   },
   "right": {
     "id": "1333bab8aebeb8e0",
@@ -68,14 +106,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dabric value types.md",
+                "file": "value types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,20 +121,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "c3e92c29295cd4f1",
+  "active": "15902fa38707b41c",
   "lastOpenFiles": [
-    "dabric value types.md",
+    "value types.md",
+    "dabric file headers.md",
+    "value types in the Dabric prelude.md",
     "value ordering.md",
-    "length vs size.md",
-    "length and size.md",
+    "Untitled.md",
+    "attribute typing.md",
     "2021-09-08.md",
     "dabric file structure.md",
-    "2021-09-06.md",
-    "2021-08-26.md",
-    "2021-09-02.md",
-    "2021-09-03.md"
+    "byte size prefixed values.md",
+    "dabric value types.md"
   ]
 }

@@ -1,0 +1,1 @@
+In a Dabric file values are often prefixed with a number that tells how many bytes the following value takes. This way the file can be parsed even if the reader does not know how to interpret some of the values. The byte count is always expressed as a [[Variable length quantity]] (VLQ). This kind of values are called here "byte size prefixed".
