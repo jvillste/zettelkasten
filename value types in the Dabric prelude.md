@@ -12,9 +12,9 @@
 - record: a byte size prefixed sequence of attribute entity id, type tag, value triplets.
 - type alias: a type definition along with an entity id that defines the meaning of the values. For example entity id (array of unsigned leb128:s), date (struct of year, month and day).
 
-## type aliases
+## named value type instances
 - entity id: a type alias for an array of VLQ:s where the first VLQ refers to a stream id in the file header
-- epoch: a unix epoch as an unsigned integer
+- epoch: a unix epoch as an unsigned leb128
 
 ## value attributes
 Dabric prelude defines the following attributes to be used in structs and records:

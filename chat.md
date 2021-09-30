@@ -1,4 +1,5 @@
-{:tags [] :draft true}
+`{:tags [] :draft true}`
+
 # Chat as threads
 
 * A conversation forms always threads like in Flowdock

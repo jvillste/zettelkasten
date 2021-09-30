@@ -1,4 +1,4 @@
-{:tags [:games :blog] :draft true}
+`{:tags [:games :blog] :draft true}`
 
 # RTS without micro
 

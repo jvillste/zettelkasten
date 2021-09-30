@@ -4,67 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "c8bc42ff848b3eea",
-        "type": "split",
-        "children": [
-          {
-            "id": "261d0b3bda8f8b63",
-            "type": "leaf",
-            "dimension": 34.33140523987751,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dabric file headers.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3a4d64fafb4c6275",
-            "type": "split",
-            "dimension": 65.66859476012249,
-            "children": [
-              {
-                "id": "15902fa38707b41c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "value types.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "214ffdee4c2f36a1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "value types in the Dabric prelude.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
+        "id": "261d0b3bda8f8b63",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "value types in the Dabric prelude.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0d01bfc645f5cf90",
+    "id": "1591364d4b15b537",
     "type": "split",
     "children": [
       {
-        "id": "8f30b813909fc55c",
+        "id": "c2c0f4c12dea8a92",
         "type": "tabs",
         "children": [
           {
-            "id": "6ecb74f9412ede47",
+            "id": "4012270d3838ee66",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,12 +34,12 @@
             }
           },
           {
-            "id": "a722a46b4fd3a1f3",
+            "id": "ced3919e30002497",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "\"value type\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,30 +52,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 300
   },
   "right": {
-    "id": "1333bab8aebeb8e0",
+    "id": "1c55ebf914908b30",
     "type": "split",
     "children": [
       {
-        "id": "0e1ad4e9d1f12850",
+        "id": "a1c9ce1d935b7d59",
         "type": "tabs",
         "children": [
           {
-            "id": "67d79183b42d6684",
+            "id": "1b23adaa0e7843bf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "value types.md",
+                "file": "value types in the Dabric prelude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -123,17 +85,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "15902fa38707b41c",
+  "active": "261d0b3bda8f8b63",
   "lastOpenFiles": [
+    "value types in the Dabric prelude.md",
+    "length vs size.md",
+    "camera gear.md",
+    "2021-09-21.md",
     "value types.md",
     "dabric file headers.md",
-    "value types in the Dabric prelude.md",
     "value ordering.md",
     "Untitled.md",
     "attribute typing.md",
-    "2021-09-08.md",
-    "dabric file structure.md",
-    "byte size prefixed values.md",
-    "dabric value types.md"
+    "2021-09-08.md"
   ]
 }

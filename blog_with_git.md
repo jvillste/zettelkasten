@@ -1,4 +1,5 @@
-{:tags [:git :blog] :draft true}
+`{:tags [:git :blog] :draft true}`
+
 # Blogging with git
 
 * Posts are markdown files in a git repository

@@ -42,4 +42,3 @@ One's online identity is based on a set of passphrases that need to be kept secr
   * The person who owns the secrets physically approves the transfer on the server
 * All communication between the places are encrypted with the key pairs
 * The update is done by
-  *
