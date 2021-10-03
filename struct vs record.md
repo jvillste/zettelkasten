@@ -1,0 +1,1 @@
+A struct has attributes as type parameters. Record has attributes in the values. Struct type instance fixes the attributes where as record type instance does not.

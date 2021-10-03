@@ -1,0 +1,1 @@
+The body is a type tagged value where the type tag is a vlq refering to the value type definition sequence in the header.

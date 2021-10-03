@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "261d0b3bda8f8b63",
+        "id": "32f90cfc8c5d255e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "value types in the Dabric prelude.md",
+            "file": "dabric file headers.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "struct vs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "value types in the Dabric prelude.md",
+                "file": "dabric file headers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +85,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "261d0b3bda8f8b63",
+  "active": "32f90cfc8c5d255e",
   "lastOpenFiles": [
-    "value types in the Dabric prelude.md",
-    "length vs size.md",
-    "camera gear.md",
-    "2021-09-21.md",
-    "value types.md",
     "dabric file headers.md",
-    "value ordering.md",
-    "Untitled.md",
-    "attribute typing.md",
-    "2021-09-08.md"
+    "Dabric file structure.md",
+    "dabric file body.md",
+    "semantics of types and values.md",
+    "struct vs record.md",
+    "value types in the Dabric prelude.md",
+    "value types.md",
+    "on structure and semantics.md",
+    "2021-09-21.md",
+    "length vs size.md"
   ]
 }

@@ -8,7 +8,7 @@
 ## higher order types
 - array: a byte size prefixed sequence of values of a single type
 - tuple: fixed length sequence of fixed type values. Tuple type is parameterized with an array of types.
-- struct: fixed length sequence of attribute values. Structs type parameters are a sequence  of attribute entity id / type -pairs. See [[length vs size]].
+- struct: fixed length sequence of attribute values. Structs type parameters are a sequence  of attribute id / type -pairs. See [[length vs size]].
 - record: a byte size prefixed sequence of attribute entity id, type tag, value triplets.
 - type alias: a type definition along with an entity id that defines the meaning of the values. For example entity id (array of unsigned leb128:s), date (struct of year, month and day).
 

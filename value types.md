@@ -31,7 +31,7 @@ Examples:
 - struct: fixed length sequence of attribute values
 
 # named value type instances
-Some value type instances may need further specification on how the values should be interpreted. Such type instances may be given an entity id by with they are refered to. This entity id is called the name of the type instance.
+Some value type instances may need further specification on how the values should be interpreted. Such type instances may be given an entity id by which they are refered to. This entity id is called the name of the type instance.
 
 A 32 bit integer is just a number, but it may be typed with a named type instance that declares that it represents a unix epoch.
 
