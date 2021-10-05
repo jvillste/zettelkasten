@@ -7,12 +7,17 @@
 
 ## higher order types
 - array: a byte size prefixed sequence of values of a single type
+- type tagged array: a byte size prefixed sequence of type tagged values
 - tuple: fixed length sequence of fixed type values. Tuple type is parameterized with an array of types.
 - struct: fixed length sequence of attribute values. Structs type parameters are a sequence  of attribute id / type -pairs. See [[length vs size]].
 - record: a byte size prefixed sequence of attribute entity id, type tag, value triplets.
 - type alias: a type definition along with an entity id that defines the meaning of the values. For example entity id (array of unsigned leb128:s), date (struct of year, month and day).
 
 ## named value type instances
+Named value type instance is a value type that is parameterized with a type name as entity id and a value type reference and it's parameters.
+
+Examples:
+
 - entity id: a type alias for an array of VLQ:s where the first VLQ refers to a stream id in the file header
 - epoch: a unix epoch as an unsigned leb128
 

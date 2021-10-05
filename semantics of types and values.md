@@ -6,6 +6,6 @@ An example:
 - **type**:  tupple
 - **type instance**: two 16 bit floating point numbers
 - **type instance semantics**: a coordinate pair
-- **value semantics**: position of a car
+- **value semantics**: position of a specific car
 
 In a struct or record (see [[struct vs record]]) the attributes specify the type level semantics of their values. A coordinate pair may be expressed as a struct with x and y attributes.

@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "struct vs",
+                "query": "semantics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,14 +88,14 @@
   "active": "32f90cfc8c5d255e",
   "lastOpenFiles": [
     "dabric file headers.md",
+    "type tag.md",
+    "2021-10-05.md",
+    "value types in the Dabric prelude.md",
+    "2021-10-04.md",
+    "semantics of types and values.md",
     "Dabric file structure.md",
     "dabric file body.md",
-    "semantics of types and values.md",
     "struct vs record.md",
-    "value types in the Dabric prelude.md",
-    "value types.md",
-    "on structure and semantics.md",
-    "2021-09-21.md",
-    "length vs size.md"
+    "value types.md"
   ]
 }

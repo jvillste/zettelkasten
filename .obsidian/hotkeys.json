@@ -41,5 +41,14 @@
       ],
       "key": "."
     }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ","
+    }
   ]
 }

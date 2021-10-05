@@ -5,5 +5,5 @@ Dabric file has a header that consists of
 - byte size prefixed sequence of value type definitions.
 	- Each value type definition consists of
 		-  byte size as VLQ. Zero means the value will be byte size prefixed rather than of fixed length.
-		-  Value type reference as entity id. Entity id:s are encoded as byte size prefixed array of VLQ:s. The first VLQ referes to a position in the preceding stream id sequence. See also [[value types in the Dabric prelude]]
-	-  byte size prefixed sequence of type tagged parameters for the type
+		-  Value type reference as entity id. See also [[value types in the Dabric prelude]]
+		-  byte size prefixed sequence of type tagged parameters for the type. see [[type tag]]
