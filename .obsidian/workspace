@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dabric streams for collaborative cad.md",
+            "file": "universal sandbox.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dabric streams for collaborative cad.md",
+                "file": "universal sandbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,8 @@
   },
   "active": "32f90cfc8c5d255e",
   "lastOpenFiles": [
+    "universal sandbox.md",
+    "2021-10-11.md",
     "dabric streams for collaborative cad.md",
     "2021-10-10.md",
     "dabric file headers.md",
@@ -94,8 +96,6 @@
     "2021-10-05.md",
     "value types in the Dabric prelude.md",
     "2021-10-04.md",
-    "semantics of types and values.md",
-    "Dabric file structure.md",
-    "dabric file body.md"
+    "semantics of types and values.md"
   ]
 }
