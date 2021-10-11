@@ -4,7 +4,7 @@ It should mean sandboxed processes that have access to cpu cores, disk space and
 
 **Cloud should mean a low level operating system interface for geographically distributed hardware.**
 
-The distribution should be made explicit and applications should be written as collections of processes. This is in contrast to distributed operating systems [described in Wikipedia](https://en.wikipedia.org/wiki/Distributed_operating_system)
+The distribution should be made explicit and applications should be written as collections of processes. This is in contrast to  [distributed operating systems](https://en.wikipedia.org/wiki/Distributed_operating_system) described in Wikipedia.
 
 DNS servers, load balancers, logging services, key value stores, message queues etc. should not be part of the cloud infrastructure. They are simply processes from the cloud infrastructure point of view.
 
