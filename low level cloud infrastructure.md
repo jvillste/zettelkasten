@@ -19,4 +19,4 @@ Each software has it's own configuration file in addition to the infrastructure 
 
 Speficially the processes and hardware configuration should not be defined by API calls. The configuration should be based on version controlled files and the cloud platform should allocate hardware and start and terminate processes based on the configuration file changes.
 
-The software in the cloud processes should not require a linux distribution, i.e. a container to run. It should be a [WASM](https://webassembly.org/) binary that uses [WASI |](https://wasi.dev/) and [WebGPU](https://en.wikipedia.org/wiki/WebGPU) to access the hardware on which it is run. See [[universal sandbox]].
+The software in the cloud processes should not require a linux distribution, i.e. a container to run. It should be a [WASM](https://webassembly.org/) binary that uses [WASI](https://wasi.dev/) and [WebGPU](https://en.wikipedia.org/wiki/WebGPU) to access the hardware on which it is run. See [[universal sandbox]].
