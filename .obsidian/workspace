@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "universal sandbox.md",
+            "file": "low level cloud infrastructure.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universal sandbox.md",
+                "file": "low level cloud infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "32f90cfc8c5d255e",
   "lastOpenFiles": [
-    "universal sandbox.md",
+    "low level cloud infrastructure.md",
     "2021-10-11.md",
+    "universal sandbox.md",
     "dabric streams for collaborative cad.md",
     "2021-10-10.md",
     "dabric file headers.md",
     "type tag.md",
     "2021-10-05.md",
     "value types in the Dabric prelude.md",
-    "2021-10-04.md",
-    "semantics of types and values.md"
+    "2021-10-04.md"
   ]
 }
