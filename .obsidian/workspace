@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "low level cloud infrastructure.md",
+            "file": "2021-10-12.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "low level cloud infrastructure.md",
+                "file": "2021-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "32f90cfc8c5d255e",
   "lastOpenFiles": [
+    "2021-10-12.md",
     "low level cloud infrastructure.md",
     "2021-10-11.md",
     "universal sandbox.md",
@@ -95,7 +96,6 @@
     "dabric file headers.md",
     "type tag.md",
     "2021-10-05.md",
-    "value types in the Dabric prelude.md",
-    "2021-10-04.md"
+    "value types in the Dabric prelude.md"
   ]
 }
