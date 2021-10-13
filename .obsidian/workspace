@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "finding functions when programming.md",
+            "file": "cross language typing.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "finding functions when programming.md",
+                "file": "cross language typing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,8 @@
   },
   "active": "32f90cfc8c5d255e",
   "lastOpenFiles": [
-    "finding functions when programming.md",
     "cross language typing.md",
+    "finding functions when programming.md",
     "dabric file headers.md",
     "attribute typing.md",
     "2021-10-13.md",
