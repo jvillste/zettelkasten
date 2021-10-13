@@ -1,4 +1,3 @@
-# finding functions when programming
 The IDE should allow searching for functions in libraries that are not yet downloaded. The public functions in libraries should be typed so that the IDE could find other functions from other libraries that operate on those types.
 
 Loading new libraries should not require process restart.

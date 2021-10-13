@@ -1,2 +1,1 @@
-# cross language typing
 Functions could operate on dabric types and you could then be able to use functions that are implemented in different programming language from which you are calling the function.
