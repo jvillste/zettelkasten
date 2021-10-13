@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "32f90cfc8c5d255e",
+        "id": "3a7c5e73e7f35616",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cross language typing.md",
+            "file": "2021-06-18.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cross language typing.md",
+                "file": "2021-06-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,8 +85,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "32f90cfc8c5d255e",
+  "active": "3a7c5e73e7f35616",
   "lastOpenFiles": [
+    "2021-06-18.md",
+    "delta compressed blob storage.md",
     "cross language typing.md",
     "universal sandbox.md",
     "finding functions when programming.md",
@@ -94,8 +96,6 @@
     "attribute typing.md",
     "2021-10-13.md",
     "value types in the Dabric prelude.md",
-    "semantics of types and values.md",
-    "2021-10-12.md",
-    "low level cloud infrastructure.md"
+    "semantics of types and values.md"
   ]
 }
