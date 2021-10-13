@@ -88,6 +88,7 @@
   "active": "32f90cfc8c5d255e",
   "lastOpenFiles": [
     "cross language typing.md",
+    "universal sandbox.md",
     "finding functions when programming.md",
     "dabric file headers.md",
     "attribute typing.md",
@@ -95,7 +96,6 @@
     "value types in the Dabric prelude.md",
     "semantics of types and values.md",
     "2021-10-12.md",
-    "low level cloud infrastructure.md",
-    "2021-10-11.md"
+    "low level cloud infrastructure.md"
   ]
 }
