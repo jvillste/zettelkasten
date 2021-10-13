@@ -1,2 +1,1 @@
-# attribute typing
 Atributes are not associated with a value type. They are only semantic identities. Value type is fixed only in a file. If the attribute values are integers and the file contains only one byte integers for that attribute, a struct that reserves only one byte for it can be used. In another file the attribute may have larger values and more bytes would then have to be allocated.

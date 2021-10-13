@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-10-12.md",
+            "file": "2021-10-13.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10-12.md",
+                "file": "2021-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "32f90cfc8c5d255e",
   "lastOpenFiles": [
+    "2021-10-13.md",
+    "finding functions when programming.md",
+    "cross language typing.md",
+    "value types in the Dabric prelude.md",
+    "attribute typing.md",
+    "semantics of types and values.md",
     "2021-10-12.md",
     "low level cloud infrastructure.md",
     "2021-10-11.md",
-    "universal sandbox.md",
-    "dabric streams for collaborative cad.md",
-    "2021-10-10.md",
-    "dabric file headers.md",
-    "type tag.md",
-    "2021-10-05.md",
-    "value types in the Dabric prelude.md"
+    "universal sandbox.md"
   ]
 }
