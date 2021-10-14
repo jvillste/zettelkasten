@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "low level cloud infrastructure.md",
+            "file": "2021-10-14.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "low level cloud infrastructure.md",
+                "file": "2021-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,8 @@
   },
   "active": "3a7c5e73e7f35616",
   "lastOpenFiles": [
+    "2021-10-14.md",
+    "attribute labeling changes.md",
     "low level cloud infrastructure.md",
     "2021-06-18.md",
     "delta compressed blob storage.md",
@@ -94,8 +96,6 @@
     "universal sandbox.md",
     "finding functions when programming.md",
     "dabric file headers.md",
-    "attribute typing.md",
-    "2021-10-13.md",
-    "value types in the Dabric prelude.md"
+    "attribute typing.md"
   ]
 }

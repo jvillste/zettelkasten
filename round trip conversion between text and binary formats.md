@@ -1,0 +1,2 @@
+# round trip conversion between text and binary formats
+There could be roundrip serialization of dabric types between binary and json formats. This way the files could be inspected and edited with a text editor and then converted back to a binary format.

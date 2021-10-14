@@ -1,0 +1,3 @@
+Attribute labels may not stable, but attribute ids are. Labels are chosen when a program is written and they may correspond to the labels described in the stream, but changes in labels in the stream do not affect the program as attribute ids are used for data serialization, not labels. Labels in the code affect only the program compilation.
+
+Attribute labels could be embedded to dabric files so that the file contents could be represented in a human readable fashion for example by convertig the contents to json.
