@@ -4,15 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "3a7c5e73e7f35616",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "repl as shell.md",
-            "mode": "source"
+        "id": "e8e5839c959c0069",
+        "type": "split",
+        "children": [
+          {
+            "id": "3a7c5e73e7f35616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shifted integers.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "386563037dd3ee1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "using custom offset for millisecond precision unix epoch is not worth it.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "b44ec2926a648f2e",
+        "type": "split",
+        "children": [
+          {
+            "id": "7cf66b6edca1e22b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "timestamps as offsets.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "415a0878a53518b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "identifier number size does not matter for storage space.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -39,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "semantics",
+                "query": "timestamps",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repl as shell.md",
+                "file": "using custom offset for millisecond precision unix epoch is not worth it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +132,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3a7c5e73e7f35616",
+  "active": "386563037dd3ee1c",
   "lastOpenFiles": [
-    "repl as shell.md",
-    "2021-10-14.md",
-    "round trip conversion between text and binary formats.md",
-    "attribute labeling changes.md",
-    "low level cloud infrastructure.md",
-    "2021-06-18.md",
-    "delta compressed blob storage.md",
-    "cross language typing.md",
-    "universal sandbox.md",
-    "finding functions when programming.md"
+    "using custom offset for millisecond precision unix epoch is not worth it.md",
+    "number size does not matter for storage space.md",
+    "timestamps as offsets.md",
+    "2021-10-16.md",
+    "using custom offset for unix epoch is not worth it.md",
+    "shifted integers.md",
+    "2021-08-12.md",
+    "using temporal indexes only for consistency.md",
+    "2021-06-17.md",
+    "2021-10-17.md"
   ]
 }

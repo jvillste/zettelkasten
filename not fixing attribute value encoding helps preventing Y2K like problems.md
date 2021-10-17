@@ -1,0 +1,1 @@
+Because attribute value encoding is not fixed it's always possible to reserve more space for storing big values. See [[attribute typing]]
