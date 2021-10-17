@@ -4,8 +4,8 @@ A [[Variable length quantity]] of three bytes can express `(2^7)^3 = 2 097 152` 
 
 Because of this, reading big numbers is also not too difficult especially when using 64 as the base. Here is the same number written in different bases:
 
-- base 10: 16 000 000
-- base 16: F4 24 00
-- base 64: 9C QA
+- base 10: `16 000 000`
+- base 16: `F4 24 00`
+- base 64: `9C QA`
 
 Each digit in base 64 encoding encodes six bits. Thus a four digit base 64 encoded number can encode a three byte i.e. 24 bit number with the maximum value of : 16 777 216
