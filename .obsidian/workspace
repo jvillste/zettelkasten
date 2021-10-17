@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "identifier number size does not matter for storage space.md",
+                "file": "should we have separate sequence for the children of each parent entity?.md",
                 "mode": "source"
               }
             }
@@ -33,33 +33,15 @@
         "direction": "horizontal"
       },
       {
-        "id": "b44ec2926a648f2e",
-        "type": "split",
-        "children": [
-          {
-            "id": "7cf66b6edca1e22b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "timestamps as offsets.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "415a0878a53518b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "identifier number size does not matter for storage space.md",
-                "mode": "source"
-              }
-            }
+        "id": "7cf66b6edca1e22b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "timestamps as offsets.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -86,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "timestamps",
+                "query": "hierarchi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "identifier number size does not matter for storage space.md",
+                "file": "should we have separate sequence for the children of each parent entity?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +117,15 @@
   },
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
+    "should we have separate sequence for the children of each parent entity?.md",
+    "how to maintain id sequences?.md",
     "identifier number size does not matter for storage space.md",
+    "2021-10-16.md",
     "using custom offset for millisecond precision unix epoch is not worth it.md",
     "number size does not matter for storage space.md",
     "timestamps as offsets.md",
-    "2021-10-16.md",
     "using custom offset for unix epoch is not worth it.md",
     "shifted integers.md",
-    "2021-08-12.md",
-    "using temporal indexes only for consistency.md",
-    "2021-06-17.md"
+    "2021-08-12.md"
   ]
 }

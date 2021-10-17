@@ -1,0 +1,5 @@
+Wen a new entity id is allocated, the transactor must know what is the next unallocated id number. This information could be maintained in the transaction log so that each file would identify the next number that was available before the first transaction in the file. Each transaction in the file would mark the number of identity numbers that were allocated in that transaction. This way the log reader would know the next available number by reading only the latest transaciton log file.
+
+The next available number could also be stored in a spearate file and that file would then have to be updated after each transaction. However if that would mean that the same location in the disk would be written again after each transaction it would be detremental to the disk health. Also if that one file got corrupted we would have to somehow figure out the number by reading the transaction log.
+
+Only one id sequence for each stream is enough. See: [[should we have separate sequence for the children of each parent entity?]]

@@ -24,4 +24,4 @@ Six bytes can express millisecond precision timestamp accross 8925 years:
 
 Using the current six byte millisecond precision unix epoch can take us to the year `1970 + 8925 = 10 895` until we have to take a seventh byte into use.
 
-See [[identifier number size does not matter for storage space]].
+See [[identifier number size does not matter for storage space and readability]].

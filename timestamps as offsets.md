@@ -6,7 +6,7 @@ A date for example would then be in most applications only two bytes because tha
 
 A default year would be prefered to make the timestamps in different data segments be comparable without adding an offset. Choosing 1970 as the default would make the timestamps compatible with the unix epoch. That would make dates two bytes long until the year `1970+2^16/365 = 2 149`
 
-For high precision timestamps this may not be worth it because storage space size is logarithmic to the value size. See [[using custom offset for millisecond precision unix epoch is not worth it]] and [[identifier number size does not matter for storage space]]
+For high precision timestamps this may not be worth it because storage space size is logarithmic to the value size. See [[using custom offset for millisecond precision unix epoch is not worth it]] and [[identifier number size does not matter for storage space and readability]]
 
 Some Clojure repl experiments:
 
