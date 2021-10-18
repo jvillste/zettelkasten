@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shifted integers.md",
+                "file": "programming language agnostic functions.md",
                 "mode": "source"
               }
             }
@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "should we have separate sequence for the children of each parent entity?.md",
+                "file": "2021-06-12.md",
                 "mode": "source"
               }
             }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hierarchi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "should we have separate sequence for the children of each parent entity?.md",
+                "file": "programming language agnostic functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,17 +115,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "386563037dd3ee1c",
+  "active": "3a7c5e73e7f35616",
   "lastOpenFiles": [
+    "programming language agnostic functions.md",
+    "2021-10-18.md",
+    "universal sandbox.md",
+    "shifted integers.md",
+    "2021-06-12.md",
+    "next_langauge.md",
+    "homoiconic_runtimeless_programming_language.md",
     "should we have separate sequence for the children of each parent entity?.md",
     "how to maintain id sequences?.md",
-    "identifier number size does not matter for storage space.md",
-    "2021-10-16.md",
-    "using custom offset for millisecond precision unix epoch is not worth it.md",
-    "number size does not matter for storage space.md",
-    "timestamps as offsets.md",
-    "using custom offset for unix epoch is not worth it.md",
-    "shifted integers.md",
-    "2021-08-12.md"
+    "identifier number size does not matter for storage space.md"
   ]
 }
