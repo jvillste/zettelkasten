@@ -1,4 +1,4 @@
-Functions in different programming languages could be compiled so that they can call each other like if they were written in the same language. The return value and parameter types must be mapped to the native types of each language. The values must be passed by copying.
+Functions in different programming languages could be compiled so that they can call each other like if they were written in the same language. The return value and parameter types must be mapped to the native types of each language.
 
 There could also be common garbage collection runtime so that different languages could operate on the same values in managed memory. If the languages use separate GC implementations the values must be copied.
 
