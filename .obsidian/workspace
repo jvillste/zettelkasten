@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e8e5839c959c0069",
-        "type": "split",
-        "children": [
-          {
-            "id": "3a7c5e73e7f35616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming language agnostic functions.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "386563037dd3ee1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-12.md",
-                "mode": "source"
-              }
-            }
+        "id": "386563037dd3ee1c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "programming language agnostic functions.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       },
       {
         "id": "7cf66b6edca1e22b",
@@ -115,17 +97,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3a7c5e73e7f35616",
+  "active": "386563037dd3ee1c",
   "lastOpenFiles": [
     "programming language agnostic functions.md",
+    "2021-06-12.md",
+    "value types.md",
     "2021-10-18.md",
     "universal sandbox.md",
     "shifted integers.md",
-    "2021-06-12.md",
     "next_langauge.md",
     "homoiconic_runtimeless_programming_language.md",
     "should we have separate sequence for the children of each parent entity?.md",
-    "how to maintain id sequences?.md",
-    "identifier number size does not matter for storage space.md"
+    "how to maintain id sequences?.md"
   ]
 }
