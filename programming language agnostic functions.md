@@ -9,3 +9,5 @@ There could also be common unamanged memory area so that data could be passed by
 Interoperable types could be described and serialized with [[value types|dabric value types]].
 
 See also [[universal sandbox]].
+
+For practical existing approach to language interoperability see [Simplified Wrapper and Interface Generator](http://www.swig.org/)

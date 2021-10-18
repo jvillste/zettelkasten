@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content addressed functions.md",
+            "file": "programming language agnostic functions.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content addressed functions.md",
+                "file": "programming language agnostic functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
   },
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
-    "content addressed functions.md",
     "programming language agnostic functions.md",
+    "content addressed functions.md",
     "2021-06-12.md",
     "value types.md",
     "2021-10-18.md",
