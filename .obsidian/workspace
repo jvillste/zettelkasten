@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming language agnostic functions.md",
+            "file": "content addressed functions.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming language agnostic functions.md",
+                "file": "content addressed functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
+    "content addressed functions.md",
     "programming language agnostic functions.md",
     "2021-06-12.md",
     "value types.md",
@@ -107,7 +108,6 @@
     "shifted integers.md",
     "next_langauge.md",
     "homoiconic_runtimeless_programming_language.md",
-    "should we have separate sequence for the children of each parent entity?.md",
-    "how to maintain id sequences?.md"
+    "should we have separate sequence for the children of each parent entity?.md"
   ]
 }
