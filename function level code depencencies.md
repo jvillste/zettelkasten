@@ -21,3 +21,5 @@ One can refer to a function implementation in different stages of compilation:
 If one is serious about testing, the testing should be done with the exact machine code that will be run in production.
 
 Joe Armstrong elaborates on this here: [Why do we need modules at all?](http://lambda-the-ultimate.org/node/5079)
+
+RIch Hickey about code dependencies: [talk-transcripts/Spec_ulation.md at master · matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/Spec_ulation.md)
