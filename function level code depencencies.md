@@ -11,4 +11,6 @@ If the function has side effects, they may be incompatible between function vers
 
 Modules could have automatic tests that are run after the linking. This should be done any time a new combination of dependencies is linked. This would make security patching more stable.
 
+One could specify the exact code that is run on a function call by giving the hashes of the compiled versions of all the functions that the called function depends. Those compiled functions could be stored in a key value store so that one could load only the exact bytes that are needed for running the function. The compiled functions should be [Position-independent code](https://en.wikipedia.org/wiki/Position-independent_code). Jumps between functions need more resolving at link time if the code is loaded one funciton at a time instead of larger units at a time.
+
 Joe Armstrong elaborates on this here: [Why do we need modules at all?](http://lambda-the-ultimate.org/node/5079)
