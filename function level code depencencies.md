@@ -9,4 +9,4 @@ The function signature may be incompatible between different versions of the sam
 
 If the function has side effects, they may be incompatible between function versions even if the function signature remains the same.
 
-* [Why do we need modules at all?](http://lambda-the-ultimate.org/node/5079)
+See [Why do we need modules at all?](http://lambda-the-ultimate.org/node/5079)
