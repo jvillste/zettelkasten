@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "function level code depencencies.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7cf66b6edca1e22b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "timestamps as offsets.md",
+            "file": "repl as cloud shell.md",
             "mode": "source"
           }
         }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "function level",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "function level code depencencies.md",
+                "file": "repl as cloud shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +87,15 @@
   },
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
+    "repl as cloud shell.md",
+    "repl as shell.md",
+    "cloud shell.md",
+    "2021-06-07.md",
+    "Fediverse.md",
+    "Dali.md",
+    "Federation.md",
     "function_level_code_depencencies.md",
     "programming language agnostic functions.md",
-    "content addressed functions.md",
-    "2021-06-12.md",
-    "value types.md",
-    "2021-10-18.md",
-    "universal sandbox.md",
-    "shifted integers.md",
-    "next_langauge.md",
-    "homoiconic_runtimeless_programming_language.md"
+    "content addressed functions.md"
   ]
 }
