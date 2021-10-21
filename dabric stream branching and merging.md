@@ -1,0 +1,3 @@
+A Dabric stream can be branced by writing a separate transaction log that starts from a specific transaction in the source stream. Also entity id sequence is branced.
+
+When the new stream is merged back to the source stream its transactions are applied one by one as if they were originally applied to the source stream. Entity id allocations are also made from the source streams entity id sequence and thus they may end up being different than in the branch. See [[how to maintain id sequences?]]

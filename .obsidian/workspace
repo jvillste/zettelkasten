@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "repl as cloud shell.md",
+            "file": "dabric stream branching and merging.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sequence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repl as cloud shell.md",
+                "file": "dabric stream branching and merging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
+    "dabric stream branching and merging.md",
+    "how to maintain id sequences?.md",
+    "how to merge entity id sequencies?.md",
+    "how to map labels to entities in code?.md",
+    "low level cloud infrastructure.md",
     "repl as cloud shell.md",
     "repl as shell.md",
     "cloud shell.md",
     "2021-06-07.md",
-    "Fediverse.md",
-    "Dali.md",
-    "Federation.md",
-    "function_level_code_depencencies.md",
-    "programming language agnostic functions.md",
-    "content addressed functions.md"
+    "Fediverse.md"
   ]
 }
