@@ -2,7 +2,7 @@
 
 Travis Oliphant is the author of NumPy and SciPy -Python libraries.
 
-He used to work with MRI images in MEOCLINIC and had used matlab for the task. When he switched to Python he realized that there were libraries missing for example integration and function optimization. He decided to implement them in SciPy.
+He used to work with MRI images in MEOCLINIC and had used matlab for the task. When he switched to Python he realized that Python was missing some tools that he had used in Matlab like integration and function optimization. He decided to implement them in SciPy.
 
 Travis initially liked Python because it had n dimensional arrays and imaginary numbers. He also knew C and so he could extend python. He liked that he could understand his own code even years later, which was not the case for example with Perl.
 
