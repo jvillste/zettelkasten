@@ -13,4 +13,4 @@ A programmer might think that imaginary numbers are just two floats, but if they
 He was inspired by Linux Torwalds and also likes science because it's about sharing knowledge. That's why he started to share his code early on. At first it was just sharing the source code and it was really hard to install and use it. Later he started to share binaries so that users would not have to figure out how to compile them.
 
 # Related thoughts
-It would be beneficial to be more easily able to write functions in one language and call them from another language. See [[universal sandbox]]. Also [[function level code depencencies]] could be useful approach to code sharing.
+It would be beneficial to be more easily able to write functions in one language and call them from another language. The functions could share value types described as Dabric value types. See [[programming language agnostic functions]]. Also [[function level code depencencies]] could be useful approach to code sharing.
