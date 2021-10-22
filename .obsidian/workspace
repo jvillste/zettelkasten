@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dabric stream branching and merging.md",
+            "file": "Travis Oliphant on Lex Friedman podcast.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dabric stream branching and merging.md",
+                "file": "Travis Oliphant on Lex Friedman podcast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +87,7 @@
   },
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
+    "Travis Oliphant on Lex Friedman podcast.md",
     "dabric stream branching and merging.md",
     "how to maintain id sequences?.md",
     "how to merge entity id sequencies?.md",
@@ -96,7 +96,6 @@
     "repl as cloud shell.md",
     "repl as shell.md",
     "cloud shell.md",
-    "2021-06-07.md",
-    "Fediverse.md"
+    "2021-06-07.md"
   ]
 }
