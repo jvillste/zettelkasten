@@ -88,6 +88,7 @@
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
     "Travis Oliphant on Lex Friedman podcast.md",
+    "function level code depencencies.md",
     "dabric stream branching and merging.md",
     "how to maintain id sequences?.md",
     "how to merge entity id sequencies?.md",
@@ -95,7 +96,6 @@
     "low level cloud infrastructure.md",
     "repl as cloud shell.md",
     "repl as shell.md",
-    "cloud shell.md",
-    "2021-06-07.md"
+    "cloud shell.md"
   ]
 }
