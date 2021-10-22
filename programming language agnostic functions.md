@@ -1,6 +1,6 @@
 Functions in different programming languages could be compiled so that they can call each other like if they were written in the same language. The return value and parameter types must be mapped to the native types of each language.
 
-The PHP rot13 function that takes utf-8 string and returns utf-8 string could be called from a C program.
+The PHP str_rot13 function that takes utf-8 string and returns utf-8 string could be called from a C program.
 
 There could also be common garbage collection runtime so that different languages could operate on the same values in managed memory. If the languages use separate GC implementations the values must be copied.
 

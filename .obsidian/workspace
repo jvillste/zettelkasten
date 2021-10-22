@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Travis Oliphant on Lex Fridman podcast.md",
+            "file": "programming language agnostic functions.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travis Oliphant on Lex Fridman podcast.md",
+                "file": "programming language agnostic functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +87,9 @@
   },
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
+    "programming language agnostic functions.md",
     "Travis Oliphant on Lex Friedman podcast.md",
     "universal sandbox.md",
-    "programming language agnostic functions.md",
     "function level code depencencies.md",
     "dabric stream branching and merging.md",
     "how to maintain id sequences?.md",
