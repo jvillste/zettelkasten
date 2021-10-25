@@ -1,6 +1,6 @@
 [Travis Oliphant: NumPy, SciPy, Anaconda, Python & Scientific Programming | Lex Fridman Podcast #224](https://youtu.be/gFEE3w7F0ww)
 
-Travis Oliphant is the author of NumPy and SciPy -Python libraries.
+Travis Oliphant is the author of NumPy and SciPy -Python libraries and the founder of Anaconda.
 
 He used to work with MRI images in MEOCLINIC and had used Matlab for the task. Matlab was OK technically, but he did not like the fact that he would have to publish code that needed commercial software to be run. When he switched to Python he realized that Python was missing some tools that he had used in Matlab like integration and function optimization. He decided to implement them in SciPy.
 

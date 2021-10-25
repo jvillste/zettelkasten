@@ -1,0 +1,5 @@
+Feature based parametric modelling in a 3D CAD software like Solid Works or Autodesk Fusion 360 is essentially visual functional programming. It could be achieved by editing text files and looking at visualization of the end result like when doing graphical user interface development.
+
+A function may generate complex geometry and the user has to refer to that geometry in the code. These references could be obtained from the visualization. Geometry identifiers must be deterministically derived from the function parameters and as stable as possible. For example a function may repeat the given geometry and if the repetition count is increased, the ids of the previously generated geometry instances must not change.
+
+Some parts of the model are easier to express as constraint solving problems rather than functions. [Geometric constraint solving - Wikipedia](https://en.wikipedia.org/wiki/Geometric_constraint_solving)

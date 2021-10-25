@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming language agnostic functions.md",
+            "file": "Travis Oliphant on Lex Fridman podcast.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming language agnostic functions.md",
+                "file": "Travis Oliphant on Lex Fridman podcast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
+    "Travis Oliphant on Lex Fridman podcast.md",
+    "dabric file headers.md",
+    "code as cad.md",
     "programming language agnostic functions.md",
     "Travis Oliphant on Lex Friedman podcast.md",
     "universal sandbox.md",
     "function level code depencencies.md",
     "dabric stream branching and merging.md",
     "how to maintain id sequences?.md",
-    "how to merge entity id sequencies?.md",
-    "how to map labels to entities in code?.md",
-    "low level cloud infrastructure.md",
-    "repl as cloud shell.md"
+    "how to merge entity id sequencies?.md"
   ]
 }
