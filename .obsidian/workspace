@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,6 +88,7 @@
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
     "values represent the state of an entity.md",
+    "modelling geometry as code.md",
     "2021-06-21.md",
     "2021-06-27.md",
     "2021-06-12.md",
@@ -96,7 +96,6 @@
     "Travis Oliphant on Lex Fridman podcast.md",
     "dabric file headers.md",
     "code as cad.md",
-    "programming language agnostic functions.md",
-    "Travis Oliphant on Lex Friedman podcast.md"
+    "programming language agnostic functions.md"
   ]
 }
