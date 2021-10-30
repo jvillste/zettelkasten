@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Variable length quantity.md",
+            "file": "structured text.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "structure",
+                "query": "temporal index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variable length quantity.md",
+                "file": "structured text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
+    "structured text.md",
+    "transition to sutainable economy.md",
+    "using temporal indexes only for consistency.md",
     "Variable length quantity.md",
     "value types in the Dabric prelude.md",
     "value types.md",
     "values represent the state of an entity.md",
     "modelling geometry as code.md",
     "2021-06-21.md",
-    "2021-06-27.md",
-    "2021-06-12.md",
-    "2021-07-07.md",
-    "Travis Oliphant on Lex Fridman podcast.md"
+    "2021-06-27.md"
   ]
 }
