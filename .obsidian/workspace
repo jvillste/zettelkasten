@@ -90,6 +90,7 @@
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
     "encoding the byte count of values.md",
+    "struct vs record.md",
     "identifier number size does not matter for storage space and readability.md",
     "value types.md",
     "relational streams vs statement streams.md",
@@ -97,7 +98,6 @@
     "structured text.md",
     "transition to sutainable economy.md",
     "using temporal indexes only for consistency.md",
-    "Variable length quantity.md",
-    "value types in the Dabric prelude.md"
+    "Variable length quantity.md"
   ]
 }
