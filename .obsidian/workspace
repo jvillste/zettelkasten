@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "encoding the byte count of values.md",
+            "file": "music as code.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "encoding the byte count of values.md",
+                "file": "music as code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
+    "music as code.md",
+    "relational streams vs statement streams.md",
     "encoding the byte count of values.md",
     "struct vs record.md",
     "identifier number size does not matter for storage space and readability.md",
     "value types.md",
-    "relational streams vs statement streams.md",
     "dabric terms.md",
     "structured text.md",
     "transition to sutainable economy.md",
-    "using temporal indexes only for consistency.md",
-    "Variable length quantity.md"
+    "using temporal indexes only for consistency.md"
   ]
 }
