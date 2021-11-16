@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "combining managed and unmanaged memory programming.md",
+            "file": "combining managed and unmanaged memory.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "combining managed and unmanaged memory programming.md",
+                "file": "combining managed and unmanaged memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
-    "combining managed and unmanaged memory programming.md",
+    "combining managed and unmanaged memory.md",
     "music as code.md",
     "relational streams vs statement streams.md",
     "encoding the byte count of values.md",
