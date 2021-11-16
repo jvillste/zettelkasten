@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "combining managed and unmanaged memory.md",
+            "file": "combining dynamic and static typing.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "temporal index",
+                "query": "low level",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "combining managed and unmanaged memory.md",
+                "file": "combining dynamic and static typing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +89,8 @@
   },
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
+    "combining dynamic and static typing.md",
+    "cross language typing.md",
     "combining managed and unmanaged memory.md",
     "music as code.md",
     "relational streams vs statement streams.md",
@@ -95,8 +98,6 @@
     "struct vs record.md",
     "identifier number size does not matter for storage space and readability.md",
     "value types.md",
-    "dabric terms.md",
-    "structured text.md",
-    "transition to sutainable economy.md"
+    "dabric terms.md"
   ]
 }

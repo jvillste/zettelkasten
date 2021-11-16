@@ -7,3 +7,5 @@ Single process could run multiple runtimes for different programming languages. 
 The processes could be run in a [[universal sandbox]] that could run various language compilers and runtimes on multilple hardware architectures. A [[low level cloud infrastructure]] could be used to coordinate the processes.
 
 Language specific package management tools could be replaced by a genereic blob storage or content distribution network or p2p network. See [[delta compressed blob storage]].
+
+See [[combining managed and unmanaged memory]].
