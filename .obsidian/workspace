@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "music as code.md",
+            "file": "combining managed and unmanaged memory programming.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music as code.md",
+                "file": "combining managed and unmanaged memory programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
+    "combining managed and unmanaged memory programming.md",
     "music as code.md",
     "relational streams vs statement streams.md",
     "encoding the byte count of values.md",
@@ -96,7 +97,6 @@
     "value types.md",
     "dabric terms.md",
     "structured text.md",
-    "transition to sutainable economy.md",
-    "using temporal indexes only for consistency.md"
+    "transition to sutainable economy.md"
   ]
 }
