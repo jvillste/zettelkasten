@@ -21,3 +21,7 @@ The cloud infrastructure should provide minimal API for making state changes suc
 Each software has it's own configuration file in addition to the infrastructure definition file. When the configuration changes, the affected process should be restarted. Processes should be started and terminated accordingly to changes to the infrastructure definition.
 
 The software in the cloud processes should not require a linux distribution, i.e. a container to run. It should be a [WASM](https://webassembly.org/) binary that uses [WASI](https://wasi.dev/) and [WebGPU](https://en.wikipedia.org/wiki/WebGPU) to access the hardware on which it is run. See [[universal sandbox]].
+
+# stateful recources
+- certificate with a private key
+- disk partition

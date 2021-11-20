@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "combining dynamic and static typing.md",
+            "file": "storing documents.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "low level",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "combining dynamic and static typing.md",
+                "file": "storing documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "386563037dd3ee1c",
   "lastOpenFiles": [
+    "storing documents.md",
+    "delta compressed blob storage.md",
+    "low level cloud infrastructure.md",
     "combining dynamic and static typing.md",
     "cross language typing.md",
     "combining managed and unmanaged memory.md",
     "music as code.md",
     "relational streams vs statement streams.md",
     "encoding the byte count of values.md",
-    "struct vs record.md",
-    "identifier number size does not matter for storage space and readability.md",
-    "value types.md",
-    "dabric terms.md"
+    "struct vs record.md"
   ]
 }
