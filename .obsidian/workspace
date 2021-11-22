@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "file management system.md",
+            "file": "managing files.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "file management system.md",
+                "file": "managing files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,8 @@
   },
   "active": "cb1d44700edc7383",
   "lastOpenFiles": [
-    "file management system.md",
     "managing files.md",
+    "file management system.md",
     "dabric file headers.md",
     "dabric file structure.md",
     "Dali.md",

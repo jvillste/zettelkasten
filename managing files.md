@@ -26,6 +26,8 @@ Only changed parts of large douments should be stored when multiple versions of 
 
 Finding files from multiple disks by their name, folder, tags or content should be fast.
 
+The same file may be stored on multiple folders on the same disk by accident. Hash values of the file contents should be maintained to facilitate finding unneeded file duplicates.
+
 Files should have copies on multiple disks so that no files are lost due to disk failure. Disks should be distributed over multiple apartments so that they can not be lost all at once by fire, water or theft.
 
 It should be possible to filter out from backups downloadable files such as source code libraries or applications.
