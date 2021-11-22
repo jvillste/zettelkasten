@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "386563037dd3ee1c",
+        "id": "cb1d44700edc7383",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "storing documents.md",
+            "file": "file management system.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "storing documents.md",
+                "file": "file management system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "386563037dd3ee1c",
+  "active": "cb1d44700edc7383",
   "lastOpenFiles": [
-    "storing documents.md",
-    "delta compressed blob storage.md",
-    "low level cloud infrastructure.md",
-    "combining dynamic and static typing.md",
-    "cross language typing.md",
-    "combining managed and unmanaged memory.md",
-    "music as code.md",
+    "file management system.md",
+    "managing files.md",
+    "dabric file headers.md",
+    "dabric file structure.md",
+    "Dali.md",
+    "dabric terms.md",
+    "dabric stream identity.md",
     "relational streams vs statement streams.md",
-    "encoding the byte count of values.md",
-    "struct vs record.md"
+    "dabric stream branching and merging.md",
+    "dabric streams for collaborative cad.md"
   ]
 }
