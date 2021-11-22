@@ -10,7 +10,7 @@ Sharing files over a network is not in the scope of the file management system. 
 - **file** has these attributes inode id, path, creation time, modification time, contents as a sequence of bytes
 - **folder** is a container of folders and files. It has a path.
 - **folder tree** is all the folders and files under a given folder
-- **file agent** is a service that manages folder trees on disks mounted on a computer. It
+- **file agent** is a service that manages folder trees on disks mounted on a computer. It may be run as a background process that runs constantly or it may be used as a command line tool for running one of commands such as comparing or synchronizing two folder trees. It
 	- maintains metadata indexes for a folder tree
 	- serves metadata indexes through an API
 	- keeps files encrypted on disk if requested
