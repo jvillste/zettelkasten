@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "managing files.md",
+            "file": "file identity.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "managing files.md",
+                "file": "file identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "cb1d44700edc7383",
   "lastOpenFiles": [
-    "managing files.md",
+    "file identity.md",
     "file management system.md",
+    "managing files without folder hierarchy.md",
+    "managing files.md",
     "dabric file headers.md",
     "dabric file structure.md",
     "Dali.md",
     "dabric terms.md",
     "dabric stream identity.md",
-    "relational streams vs statement streams.md",
-    "dabric stream branching and merging.md",
-    "dabric streams for collaborative cad.md"
+    "relational streams vs statement streams.md"
   ]
 }
