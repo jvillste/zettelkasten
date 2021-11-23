@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "downloading files from file agent network.md",
+            "file": "peer to peer code library distribution.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "downloading files from file agent network.md",
+                "file": "peer to peer code library distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "cb1d44700edc7383",
   "lastOpenFiles": [
+    "peer to peer code library distribution.md",
     "downloading files from file agent network.md",
     "managing files without folder hierarchy.md",
     "Metadata extractor.md",
@@ -95,7 +96,6 @@
     "file management system.md",
     "managing files.md",
     "dabric file headers.md",
-    "dabric file structure.md",
-    "Dali.md"
+    "dabric file structure.md"
   ]
 }
