@@ -1,4 +1,6 @@
-A user could search for recent photos and see that an interesting photo is stored in a disk that is currently not mounted on any file agent in the network. Hes file agent knows this because it has downloaded the metadata of all folder trees in the network.
+A usage scenario for the [[file management system]]:
+
+A user could search for recent photos and see that an interesting photo is stored in a disk that is currently not mounted on any file agent in the network. His file agent knows this because it has downloaded the metadata of all folder trees in the network.
 
 He knows that the disk is at his friends home and asks the friend to mount the disk on one of his computers. When the disk is mounted the user can download the file on his computer using the file agent running on his friends computer.
 
