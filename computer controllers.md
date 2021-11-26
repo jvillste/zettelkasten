@@ -8,7 +8,7 @@ Humans interact with computers through controllers.
 - rezolution: binary / analog
 - persistency: Does the controller return to some state when you do not apply force on it anymore. Persistent controllers: mouse, modwheel. Transient controllers: pitch bend, keyboard, joystick.
 - jumpability: jumpable / non jumpable. Can the controller state be set without going through intermediate states? Touch screen is jumpable, joystick is continous. All relative controllers are non jumpable.
-- composability: is the controller usually used as a combination of multiple controllers. Keyboard has always multiple keys. A touch screen can support multitouch or single touch.
+- composability: is the controller usually used as a combination of multiple controllers. Keyboard has always multiple keys. A touch screen can support multitouch or single touch. [Omni](https://invest.virtuix.com/) is a set of controllers that reads input from the whole body of the user.
 
 # input interpretation attributes
 - derivative: position / speed / acceleration

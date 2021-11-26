@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "downloading files from file agent network.md",
+            "file": "computer controllers.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "downloading files from file agent network.md",
+                "file": "computer controllers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,10 +87,10 @@
   },
   "active": "cb1d44700edc7383",
   "lastOpenFiles": [
+    "computer controllers.md",
     "downloading files from file agent network.md",
     "file management system.md",
     "managing files.md",
-    "computer controllers.md",
     "thinking as path finding through words.md",
     "rts_without_micro.md",
     "combining dynamic and static typing.md",
