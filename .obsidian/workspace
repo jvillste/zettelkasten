@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer controllers.md",
+            "file": "downloading files from file agent network.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 344,
+    "collapsed": true
   },
   "right": {
     "id": "1c55ebf914908b30",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer controllers.md",
+                "file": "downloading files from file agent network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "cb1d44700edc7383",
   "lastOpenFiles": [
-    "computer controllers.md",
     "downloading files from file agent network.md",
+    "Travis Oliphant on Lex Fridman podcast.md",
+    "computer controllers.md",
     "file management system.md",
     "managing files.md",
     "thinking as path finding through words.md",
     "rts_without_micro.md",
     "combining dynamic and static typing.md",
     "delta compressed blob storage.md",
-    "peer to peer code library distribution.md",
-    "managing files without folder hierarchy.md"
+    "peer to peer code library distribution.md"
   ]
 }
