@@ -1,0 +1,1 @@
+Before we can solve a problem we must ask a question. Before we can ask a question we must find words in which to ask it.
