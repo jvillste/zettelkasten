@@ -1,0 +1,1 @@
+If it would be possible to model dabric value type so that it is compatible with c structs, cush values could be used for types that are interoperable between programming launguages. See [[cross language typing]].
