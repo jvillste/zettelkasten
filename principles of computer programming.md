@@ -1,0 +1,10 @@
+- computer programs run in computers
+- programs read input from mouse, keyboard, pen tablet touchscreen, midi controller etc.
+- programs read and write disk with or without a file system
+- computers have a CPU that can execute code written in specific instruction set
+- CPU can have multiple cores for parallel execution
+- computers may have a GPU
+- new program code may be loaded into a running program without resetting the program state
+- static type analysis may be applied to the program code or parto of it to find errors and to assist writing the code
+- test environment that uses read only production integrations if possible
+- deployment that quarantees that everything that affects code that runs in test or production environment corresponds to a specific version in a version control system.
