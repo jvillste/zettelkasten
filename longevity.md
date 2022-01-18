@@ -1,0 +1,12 @@
+- David Sinclair
+	- Lifespan: Why We Age—and Why We Don't Have To
+	- https://linktr.ee/lifespanbook
+- metformin
+- berberine
+- mtor
+- James W Clement
+	- The Switch
+- David Huberman
+- Peter Attia
+- Ori Hofmekler
+	- The warrior diet
