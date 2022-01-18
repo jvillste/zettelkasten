@@ -5,3 +5,5 @@ Entity ids could be sequencies. Related entities could share a common prefix. Th
 
 # Parent attribute and EAV index ordered by parent hierarchy
 Entities could have "parent" -attribute and there could be separate EAV -index where the datoms would start with a sequence of entity ids in the parent hierarchy.
+
+The index file could compress the id paths because consequent datoms in the index have similar paths.
