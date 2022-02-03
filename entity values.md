@@ -1,4 +1,4 @@
-Entities in Dabric stream have an id and the stream describes their state as statements.
+Entities in Dabric stream have an id and the stream describes their state as statements. See [[values represent the state of an entity]]
 
 Entity value does not have an id. It describes a single entity state as attribute value pairs. The attributes are entities and are referred with entity ids like normal entity attributes. Entity values are stored in indexes like other values such as strings and numbers. For ordering in the index they are compared as ordered sequences of attribute value pairs.
 
