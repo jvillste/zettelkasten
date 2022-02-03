@@ -2,7 +2,7 @@ Entities in Dabric stream have an id and the stream describes their state as sta
 
 Entity value does not have an id. It describes a single entity state as attribute value pairs. The attributes are entities and are referred with entity ids like normal entity attributes. Entity values are stored in indexes like other values such as strings and numbers. For ordering in the index they are compared as ordered sequences of attribute value pairs.
 
-An example of an entity value is internationalized string that has two attributes: the language and the string.
+An example of an entity value is internationalized string that has two attributes: the language and the string. It could be efficiently stored as struct in dabric files. See [[struct vs record]].
 
 Entity values may contain other entity values and thus form a hierarchical document just like a JSON file. The biggest difference to a JSON file is that attributes are encoded as entity ids rather than strings.
 
