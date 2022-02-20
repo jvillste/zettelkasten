@@ -6,5 +6,5 @@ Each branch could use different stream id and different entity id sequence.
 
 Random ids must be big so that there is no collision between branches. Often used ids could be compressed away in the files. 
 
-Reding and writing big numers would not be as ergonomic as with smaller numbers. In practice it would be sufficient to use a prefix of the whole number like when using git hashes.
+Reading and writing big numers would not be as ergonomic as with smaller numbers. In practice it would be sufficient to use a prefix of the whole number like when using git hashes.
 
