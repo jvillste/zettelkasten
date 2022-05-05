@@ -7,6 +7,6 @@ The result would be a list of key pairs corresponding the digrams in the text an
 
 One could then calculate the efficiency of a given layout by multiplying each digrams propability by the time it took to type the corresponding key pair. The smaller this number is, the more efficient the layout is.
 
-Calculating the efficiency of every possible layout is not possible because the number of permutations in the latin alphabet is 25! = 1.6E25. Assuming that calculating the efficiency of one layout took 0.1 milliseconds, it would take 4.9E13 years to rate them all.
+Calculating the efficiency of every possible layout is not possible because the number of permutations in the latin alphabet is 26! = 4.0E26. Assuming that calculating the efficiency of one layout took 0.1 milliseconds, it would take 1.3E15 years to rate them all.
 
 Finding the optimal layout could be an intearctive proces between a computer and a human. The human could suggest a layout and the computer could then search for a local optimum by swaping key pairs until no more efficient layout is found. Then the computer could present an analysis of which are the most common and slowest key pairs used in the layout and the human could then try to invent a better layout.
