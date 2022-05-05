@@ -1,5 +1,3 @@
-# Drawing exercise application
-
 * It shows an image and a drawing area. The user must copy the image to the drawing area.
 * The application calculates how different the original image is to the drawed image.
 	* Value and color differences are calculated separaterly
