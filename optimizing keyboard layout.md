@@ -1,7 +1,6 @@
 To find an optimal keyboard layout for typing a given text by a given person one would have to first measure which finger movements are the most efficient and then find a layout that uses the most efficient finger movements for the given text.
 
-To measure the efficiency of each finger movement one could
-make the person type the text and measure the time it takes to write each digram in the text; assuming the person knows the used keyboard layout so well that he does not have to search for the keys. The typed text could be an excerpt of the whole text containing all of the most common digrams of the whole text. The whole text could be for example the contents of the english wikipedia.
+To measure the efficiency of each finger movement one could make the person type the text and measure the time it takes to write each digram in the text; assuming the person knows the used keyboard layout so well that he does not have to search for the keys. The typed text could be an excerpt of the whole text containing all of the most common digrams of the whole text. The whole text could be for example the contents of the english wikipedia.
 
 The result would be a list of key pairs corresponding the digrams in the text and the average time it took to type them.
 
