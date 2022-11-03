@@ -24,4 +24,4 @@ The moderators must have efficient tools to moderate large amounts of arguments.
 
 * [arguman.org](http://en.arguman.org/)
 * [fallacyfiles.org: Taxonomy of Logical Fallacies](http://www.fallacyfiles.org/taxonomy.html)
-* [https://www.kialo.com/]
+* [www.kialo.com][https://www.kialo.com/]
