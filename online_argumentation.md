@@ -1,12 +1,8 @@
-`{:tags [:argumentation] :draft true}`
-
 There is no truth - only debate
-
-# Online argumentation
 
 ## The problem
 
-Critical thinking and argumentation is hard.
+Critical thinking and argumentation is hard. We should develop tools that allow people to collaborate in argument analysis over the internet.
 
 ## How to get rid of invalid arguments?
 
@@ -28,3 +24,4 @@ The moderators must have efficient tools to moderate large amounts of arguments.
 
 * [arguman.org](http://en.arguman.org/)
 * [fallacyfiles.org: Taxonomy of Logical Fallacies](http://www.fallacyfiles.org/taxonomy.html)
+* [https://www.kialo.com/]

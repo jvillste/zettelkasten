@@ -1,6 +1,6 @@
 In the Rationally Speaking podcast episode [261: Dangerous biological research – is it worth it?](http://rationallyspeakingpodcast.org/261-dangerous-biological-research-is-it-worth-it-kevin-esvelt/) Kevin Esvelt argues that we should not allow or at least not use tax payer money for research that tries to find viruses that are most likely to cause pandemic. If the DNA sequences of such viruses would be published there are currently about five thousand individuals globally who could reproduce and release those viruses. And that number is growing rapidly because the popularity of life science research.
 
-Such research should be regulated just like nuclear wepon research is regulated. The current pandemic is already more leathal than any single nuclear weapon. Nuclear weapons require nation-state scale resources to produce while viruses can be produced by individuals with adequate training.
+Such research should be regulated just like nuclear weapon research is regulated. The current pandemic is already more leathal than any single nuclear weapon. Nuclear weapons require nation-state scale resources to produce while viruses can be produced by individuals with adequate training.
 
 Esvelt suggests that a more secure research topic on pandemic prevention would be to list animals that have most viruses that are able to infect humans. There would not be need to test how dangerous each virus is. Contact with the animals species with most viruses could then be regulated to lower the risk of new pandemics.
 
