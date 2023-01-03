@@ -19,4 +19,3 @@
 * transaction: transaction number and a set of changes concering a specific index
 * transaction log: a sequence of transactions concering a specific index
 * monotonic transaction log: a transaction log where all the changes contain only adds and no removals.
-
