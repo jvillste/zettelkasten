@@ -1,0 +1,5 @@
+Professionals who know for example how to install a roof for a house have skills that are learned by doing and which are not all documented. Those skills are lost if there is no need for new roofs anymore.
+
+It may appear that sustainable way of doing things would be to build things that last. But that would slow down development progress because there would be less need to refine the existing designs. Also if there is less need for some product, there will bee less providers and thus less skilled people who know how to produce the product.
+
+Only when the craftsmanship can be teached to a computer, can it be preserved over long periods when it is not needed. We should try to design products that can be produced and installed by robots. That would ensure that all the needed knowledge is encoded in some form outside of human minds and would thus be preserved even if there would no longer be new professionals learning it. Assuming the robots are also made by robots that are made by robots that are...
