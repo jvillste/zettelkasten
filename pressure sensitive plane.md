@@ -5,8 +5,7 @@ Soundpane has a grid of antennas. It sends different frequencies to vertical ant
 LinnStrument uses pressure sensitive resistors for pressure sensitivity.
 
 A third approach would be to have the same kind of antenna grid as in Soundplane but we would measure the capacitance of each antenna junction as described in:
-[https://embedded-lab.com/blog/making-a-digital-capacitance-meter-
-using-microcontroller/](https://embedded-lab.com/blog/making-a-digital-capacitance-meter-using-microcontroller/) We would need multiplexer banks to raise voltage of each vertical antenna at a time and to measure the capacitance between horizontal and vertical antennas each horizontal antenna at a time. The multiplexer banks could be assembled from surface mounted devices for example from [https://jlcpcb.com/](https://jlcpcb.com/).
+[https://embedded-lab.com/blog/making-a-digital-capacitance-meter-using-microcontroller](https://embedded-lab.com/blog/making-a-digital-capacitance-meter-using-microcontroller/) We would need multiplexer banks to raise voltage of each vertical antenna at a time and to measure the capacitance between horizontal and vertical antennas each horizontal antenna at a time. The multiplexer banks could be assembled from surface mounted devices for example from [https://jlcpcb.com/](https://jlcpcb.com/).
 
 To have the same resolution and range as in LinnStrument, we would need at least four junctions in each of the 200 pads. If it's too slow to read each of the 800 junctions one at a time, we could have multiple PIC16F628A microcontrollers (3$/each). Each of them could measure one junction parallelly. The results could be read by forming a parallel bus between the PIC:s and a master micro controller. One PIC would be connected to the master microcontroller at a time again using a multiplexer bank. Also a multiplexer is needed to connect the PIC:s to the vertical antennas.
 
