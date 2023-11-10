@@ -1,3 +1,3 @@
-Developing a user interface for an editor of structured data can be done by writing code, but it can also be done by describing UI views as data. When using Dabric streams for storing the data one can have similar version management capabilities as when managing code as text files in a version control system.
+Developing a user interface for an editor of structured data can be done by writing code, but it can also be done by describing UI views as data. When using Dabric streams for storing the data one can have [[dabric stream branching and merging|similar version management capabilities]] as when managing code as text files in a version control system.
 
 The views that are used to describe views as data must be initially described as code to bootstrap the system.
