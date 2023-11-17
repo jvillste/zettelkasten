@@ -1,0 +1,1 @@
+Dabric stream consists of a globally unique identifier and a sequence of transactions i.e. the transaction log.

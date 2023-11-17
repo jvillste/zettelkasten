@@ -1,0 +1,1 @@
+Instead of [[entity values]] we could threat complex values as [[dabric stream|Dabric streams]] without stream id. The values would then not be constrained to be JSON like hierarchical documents, but graphs instead.
