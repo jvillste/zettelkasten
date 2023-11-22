@@ -1,10 +1,10 @@
-- https://vlang.io/
-- https://ada-lang.io/
-- https://odin-lang.org/
-- https://www.hylo-lang.org/
-- https://vale.dev/
-- https://nim-lang.org/
-- https://austral-lang.org/
-- https://extemporelang.github.io/
+- [https://vlang.io/](https://vlang.io/)
+- [https://ada-lang.io/](https://ada-lang.io/)
+- [https://odin-lang.org/](https://odin-lang.org/)
+- [https://www.hylo-lang.org/](https://www.hylo-lang.org/)
+- [https://vale.dev/](https://vale.dev/)
+- [https://nim-lang.org/](https://nim-lang.org/)
+- [https://austral-lang.org/](https://austral-lang.org/)
+- [https://extemporelang.github.io/](https://extemporelang.github.io/)
 
-Hacker news conversation on this topic: https://news.ycombinator.com/item?id=31220505
+ [Hacker news conversation on this topic](https://news.ycombinator.com/item?id=31220505)
