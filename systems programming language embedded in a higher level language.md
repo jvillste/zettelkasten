@@ -1,0 +1,3 @@
+Could single programming language support two different kinds of programming paradigms: dynamic typing, garbage collector and persistent data structures i.e. Clojure and static typing, manual memory management and mutable data structures i.e. C?
+
+Could C like language be implemented as a macro in Clojure? The syntax would consist of the Clojure data structures but the code would be compiled to C like functions. This would be similar to embedding assembly code in C code.
