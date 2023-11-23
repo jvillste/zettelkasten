@@ -5,3 +5,5 @@ Could C like language be implemented as a macro in Clojure? The syntax would con
 C like languages are useful for algorithms that need high performance, but most applications require lot's of code for tasks that do not need the performance and would thus benefit from high abstraction level. Python is a good example of how slow, interpreted high level language is powerful when combined with high performance algorithms written in C.
 
 Having a low level language be embedded in a high level language would make them co-operate as seamlessly as possible. Macros for example could be written in the higher level language. An example of this is the [Extempore](https://extemporelang.github.io/) language that uses Scheme for macros in a low level language.
+
+For a list of low level programming languages see [[c language alternatives]].
