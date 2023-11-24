@@ -4,4 +4,4 @@ To make the compiler development interactive in the clojure repl we could run th
 
 We need to implement low level functionalities such as the big integers and string manipulation which are inherited from java and javascript in clojure and clurescript. We could use c or rust libraries for those.
 
-Developing a [[systems programming language embedded in a higher level language|lower level language]] interactively in Clojure repl could be a nice experience also.
+Developing a [[systems programming language embedded in a higher level language|lower level language]] with the Clojure syntax interactively in Clojure repl could be a nice experience also.
