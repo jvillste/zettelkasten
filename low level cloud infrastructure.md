@@ -25,3 +25,13 @@ The software in the cloud processes should not require a linux distribution, i.e
 # stateful recources
 - certificate with a private key
 - disk partition
+
+# Terms
+- compunet
+	- a set of computers that are connected to form an infrastructure for running applications
+- sandbox
+	- a program that can run compunet processes securely
+- application
+	- a collection of processes that work together
+- process
+	- a program that is being executed in a sandbox
