@@ -1,4 +1,5 @@
 An fps focused quake like game engine with built in map editor. Runs in web browser.
+
 Goals:
 - Focus on FPS rather than general game engine to make content creation simpler.
 - Focus on low poly map geometry that can all be created inside the game editor rather than imported from a 3D modelling package. Quake engine's BSP brushes seem to be a sweet spot between Doom's 2.5D geometry or Minecraft like voxel worlds and unrestricted meshes used in Unity and Unreal. We aim to strike balance of expressivity and simplicity. Doom is still more popular than Quake among mappers because of how easy it is to make 2D sector based Doom maps, but similar tools could be brought to BSP like geometry, while still allowing true 3D geometry when needed. BSP:s are not required anymore for performance reasons, but restricting to convex blocks seems to make it easier to manage geometry compared to unrestricted triangle based meshes. There may be other geometry paradigms still undiscovered that would combine easiness and expressivity even better.
@@ -19,9 +20,10 @@ Non goals:
 - Obscure game currency such like Robux that makes it hard to understand the real price of content.
 
 Competitors:
+- [Prodeus](https://store.steampowered.com/app/964800/Prodeus/)
 - [Roblox](https://www.roblox.com/)
-- [Unity](https://unity.com/)
-- [Unreal](https://www.unrealengine.com/)
 - [Krunker](https://krunker.io/)
 - [Reflex arena](https://www.reflexarena.com/)
 - [Diabotical](https://www.diabotical.com/)
+- [Unity](https://unity.com/)
+- [Unreal](https://www.unrealengine.com/)
