@@ -12,3 +12,6 @@ For a list of low level programming languages see [[c language alternatives]].
 
 C# supports using manual memory management and disable array bounds checking for performance critical code:
 [Possible to mix garbage collection and manual memory management?](https://langdev.stackexchange.com/questions/2956/possible-to-mix-garbage-collection-and-manual-memory-management)
+
+# Making it embeddable
+It should be possible to drop the runtime all together if the whole code base does not use GC. GC would possibly only be used on compile time for running macros.
