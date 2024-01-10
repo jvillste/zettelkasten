@@ -9,3 +9,6 @@ Having a low level language be embedded in a high level language would make them
 	[jank](https://jank-lang.org/) seems to be an effort to this direction.
 
 For a list of low level programming languages see [[c language alternatives]].
+
+C# supports using manual memory management and disable array bounds checking for performance critical code:
+[Possible to mix garbage collection and manual memory management?](https://langdev.stackexchange.com/questions/2956/possible-to-mix-garbage-collection-and-manual-memory-management)
