@@ -1,4 +1,4 @@
-Reasons for implementing clojure to wasm compiler:
+Reasons for implementing wasm backend for clojure compiler:
 - To be able to run the exact same language on the server and on the browser. In theory the same could be achieved by a cljc library that implements javascript and java API:s that are now in common use in clojurescript and clojure code.
 - It might be that clojure programs compiled to wasm would start up faster because there would be no JVM class loading.
 
