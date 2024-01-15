@@ -1,6 +1,7 @@
+- [https://ziglang.org/](https://ziglang.org/)
+- [https://odin-lang.org/](https://odin-lang.org/)
 - [https://vlang.io/](https://vlang.io/)
 - [https://ada-lang.io/](https://ada-lang.io/)
-- [https://odin-lang.org/](https://odin-lang.org/)
 - [https://www.hylo-lang.org/](https://www.hylo-lang.org/)
 - [https://vale.dev/](https://vale.dev/)
 - [https://nim-lang.org/](https://nim-lang.org/)
