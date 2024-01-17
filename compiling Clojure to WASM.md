@@ -1,6 +1,6 @@
 Reasons for implementing wasm backend for clojure compiler:
-- To be able to run the exact same language on the server and on the browser. In theory the same could be achieved by a cljc library that implements javascript and java API:s that are now in common use in clojurescript and clojure code.
-- It might be that clojure programs compiled to wasm would start up faster because there would be no JVM class loading.
+- To be able to run the exact same language on the server and on the browser. In theory the same could be achieved by a cljc library that implements javascript and java API:s that are now in common use in clojurescript and clojure code. Also ClojureScript can be run in the backend and frontend already.
+- It might be that clojure programs compiled to wasm would start up faster because there would be no JVM class loading. ClojureScript Node applications already start fast.
 
 To make a WASM backend to the clojurescript compiler we need to replace emit functions in the [compiler](https://github.com/clojure/clojurescript/blob/master/src/main/clojure/cljs/compiler.cljc) for example using [wasm.cljc](https://github.com/helins/wasm.cljc).
 
