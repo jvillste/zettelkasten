@@ -8,7 +8,9 @@ Having a low level language be embedded in a high level language would make them
 
 	[jank](https://jank-lang.org/) seems to be an effort to this direction.
 
-For a list of low level programming languages see [[c language alternatives]].
+For a list of low level programming languages see [[c language alternatives]]. One approach would be to create an EDN based syntax for Zig or Odin and to compile that to Zig or Odin code. That would make sure that the battle proven patterns of static programming would be taken into use in this new programming language. The sole goal of this work would be to combine Clojure with static language with minimal friction between them.
+
+Clojure's interoperability syntax shows one way of embedding statically typed language to dynamically typed language.
 
 C# supports using manual memory management and disable array bounds checking for performance critical code:
 [Possible to mix garbage collection and manual memory management?](https://langdev.stackexchange.com/questions/2956/possible-to-mix-garbage-collection-and-manual-memory-management)
