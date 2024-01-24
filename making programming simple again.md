@@ -1,6 +1,8 @@
+As we learn how to program computers, our tools should get simpler. Instead it seems that complexity only grows over time. We should find ways to make programming simple again.
 # Sources of complexity in programming
 - there are many programming languages
-- many calling conventions
+- there are many package management systems
+- there are many calling conventions
 - everything is based on c/c++ code
 	- package management for c/c++ code is still not solved, although [Conan](https://conan.io/) seems promising.
 - many CPU instruction set architectures
