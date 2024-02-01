@@ -8,4 +8,6 @@ Software should be able to run on Desktop, in the cloud and in the browser with 
 
 Even if [[systems programming language embedded in a higher level language|Clojure(Script) would evolve to include systems programming characteristics]] that could be achieved simply by implementing those by generating WASM modules and calling them from the JavaScript emitted by the ClojureScript compiler. It may though be possible that such calls would be more efficient if also the current dynamic ClojureScript language would be compiled to WASM.
 
-One big missing feature from JavaScript runtimes is multithreading. JVM is still more powerful in that respect.
+One big missing feature from JavaScript runtimes is multithreading. JVM is still more powerful in that respect. Compiling Clojure to WASM could solve multithreading in the browser although WASM modules have to use web workers just like javascript so maybe also ClojureScript could have some kind of multithreading implemented with web workers too.
+
+Cider does not know how to run ClojureScript tests. This should be fixable.

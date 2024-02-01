@@ -10,11 +10,11 @@ Goals:
 - Game logic is programmable with clojurescript.
 - Development workflow should be fully interactive. Editor and the game share the same engine. Lightmaps for global illumination are ray traced in realtime with GPU.
 - Easy to setup multiplayer servers financed with monthly subscription.
-- Version control for maps that allow pull requests and visual diffs.
+- Version control for maps that allows pull requests and visual diffs.
 - Runs in browser. Maps should be playable just by clicking a link.
 
 Non goals:
-- Generic game engine for non FPS games
+- Generic game engine for non FPS games. Basic FPS game logic should be built in unlike in game engines like Unity or Unreal Engine. Designing a game engine for all possible games makes everything too complex.
 - High fidelity map geometry that requires dedicated 3D modelling software. All map geometry is encouraged to be created in the build in editor. The game engine may not be powerful enough to support huge polygon counts. Game entities such as enemies or items can still be modelled and animated in external software such as Blender. Also using an external image editor should be fully supported for creating textures.
 - Arena shooter focus. Arena shooters require active community so that people have players to play with. They do not encourage making new maps since each map is it's own game that requires years of practice to master.
 - Obscure game currency such like Robux that makes it hard to understand the real price of content.
@@ -26,4 +26,5 @@ Competitors:
 - [Reflex arena](https://www.reflexarena.com/)
 - [Diabotical](https://www.diabotical.com/)
 - [Unity](https://unity.com/)
-- [Unreal](https://www.unrealengine.com/)
+- [Unreal Engine](https://www.unrealengine.com/)
+- [Unreal Editor For Fortnite](https://store.epicgames.com/en-US/p/fortnite--uefn)
