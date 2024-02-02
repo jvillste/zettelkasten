@@ -17,8 +17,11 @@ Standard source formats can be developed, but the features of such formats restr
 ## Programming languages
 A programming language is a source format, but code editors a.k.a. "integrated development environments" (IDE:s) have their own file format for storing the settings for their features that are not expressed in the programming language that is being edited.
 
-## Quake
+## Quake maps
 Quake maps have a simple plaintext format and there are many map editors that use it. The editors can have diverse set of editing tools but the project is always stored in the original map file format and stays interchangeable between the different editors. This restricts the editors so that the geometry can only be expressed as so called "BSB brushes" and not higher abstraction level parameterised entities such as stairs that can have the stair count as a parameter. Stairs can be generated with a tool bot after the generation there are only BSB brushes and the parameters of the generation can not be changed. If the editors would use their own file format, the stair entity could be kept in a source format so that the parameters could be changed later on.
 
-## Music trackers
+## Music tracker module files
 I the nineties there was a [music tracker](https://en.wikipedia.org/wiki/Music_tracker) scene in which music was shared in the source form as "[module files](https://en.wikipedia.org/wiki/Module_file)". Those files contained all of the notes and samples that could then be remixed by other people to create their own music. Nowadays commercial digital audio workstations a.k.a "DAW":s have replaced music trackers and music is created using commercial software synthesizers and audio effects called "plugins" which can not be shared. Plugins need to be installed on the users machine separately to be able to open a project file that uses them. They are not stored in the project files. 
+
+## DAW plugins
+Digital audio workstation (DAW) plugins adhere to a standard API such as VST or AU. That allows different DAW:s to utilise the same plugins. The standard specifies how the plugin draws on the screen and gets user input and how it generates and processes audio. If the plugins would be shared in the project source files, the project files could be shared between users more easily.
