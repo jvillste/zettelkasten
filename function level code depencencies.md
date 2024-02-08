@@ -2,7 +2,7 @@ When a program is compiled and linked, the dependencies between compilation modu
 
 Possible solutions to dependency conflicts are:
 - pick one version and hope that it works with the modules that depend on a different version
-- raise the granulairity of dependencies to function level to avoid conflicts
+- lower the granulairity of dependencies to function level to avoid conflicts
 - allow linking to multiple versions of the same function at the same time
 
 The function signature may be incompatible between different versions of the same function. Even with static typing different versions of the function may behave differently in an incompatible manner. Only tests can tell if the specific version of the called function works as expected.
@@ -19,6 +19,8 @@ One can refer to a function implementation in different stages of compilation:
 - machine code
 
 If one is serious about testing, the testing should be done with the exact machine code that will be run in production.
+
+The Unison programming language [implements function level dependencies.](https://www.unison-lang.org/docs/the-big-idea/)
 
 Joe Armstrong elaborates on this here: [Why do we need modules at all?](http://lambda-the-ultimate.org/node/5079)
 
