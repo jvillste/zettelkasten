@@ -1,3 +1,10 @@
+Money is a system that tracks debt between individuals. When someone buys goods from another unfamiliar person, there has to be some way to establish a dept relationship between the persons. If they would know each other they could simply agree that the buyer will sell something back to the sheller at later point in time. But when the persons are strangers to each other, the seller must have some way to trust that the buyer will pay his dept back later on.
+Requirements for a monetary system are:
+- it should be fair to everyone. No one can be in infinite dept to others, i.e. everyone should eventually pay back to others unless there is common agreement that someone does not have to pay back for example because of some illness. 
+- cheating should be hard
+- the system should scale to whole humanity
+- there should be no central authority managing the system
+
 # Lightweight peer to peer currencies
 
 ## The problem

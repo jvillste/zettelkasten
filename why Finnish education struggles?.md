@@ -1,0 +1,2 @@
+- kids play with video games instead of engaging in more educational activities
+- less money is used for education
