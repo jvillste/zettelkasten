@@ -12,5 +12,5 @@ If bank credit is used as money, the people who use it, must pay interest to the
 If the money would be created interest free by the government, it could be used for free by the citizens. Such money would not have value unless every citizen would have to pay taxes using it. The taxes would then be the cost of using the money.
 ### Public banking
 The government could lend money at interest. The interest could be used for public spending. The value of the money would come from the need to repay the debt with interest. There would then be both interest free money and governemnt credit in circulation. This is in contrast with bank credit system, where all money is bank credit. In bank credit system some interest free money is some times created by forgiving debts, which is called "quantitative easing". Forgiving debts regularly has been common practice in some cultures, but is currently done only during financial crisis.
-### [Mutual credit](https://en.wikipedia.org/wiki/Mutual_credit)
-In a mutual credit system there is no interest and no taxes. The value of the money comes from the trust between the participants.
+### Mutual credit
+In a [mutual credit](https://en.wikipedia.org/wiki/Mutual_credit) system there are no interest nor taxes. The value of the money comes from the trust between the participants.
